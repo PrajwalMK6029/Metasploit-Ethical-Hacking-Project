@@ -1,0 +1,29 @@
+# Secrets, credentials, and sensitive evidence
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+credentials/
+private-evidence/
+*.hash
+*.pcap
+*.pcapng
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.log
+
+# Python, if helper scripts are added later
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/

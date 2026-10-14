@@ -1,0 +1,2 @@
+# Documentation-only repository: no Python packages are required.
+# Add pinned dependencies here only if you later add a helper application.
